@@ -1,0 +1,45 @@
+
+a{
+
+font-size: 18px;
+color: green;
+padding: 10px;
+}
+#usuario form{
+border: 5px solid blue;
+margin-top: 15px;
+margin-bottom: 15px;
+padding: 20px;
+
+}
+
+#usuario form *{
+
+
+     display: block;
+}
+input[type="text"]{
+    margin-bottom: 15px;
+    padding: 5px;
+    width: 300px;
+}
+
+input[type="submit"]{
+
+    background: green;
+    color: white;
+
+    padding:  15px;
+    font-size: 17px;
+
+    text-transform: uppercase;
+
+    border: 1px solid black;
+}
+
+#menu > li > a{
+    font-size: 18px;
+    color: red;
+    padding: 10px;
+     text-decoration: none;
+}

@@ -1,0 +1,12 @@
+body{
+background-image: url("image/fondo.jpg");
+ background-repeat: no-repeat;       
+}
+#caja{
+
+    border: 5px solid black;
+}
+
+h2{
+    color: red;
+}
